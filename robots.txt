@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://foreachsam.github.io/note-tool-hotdoc/sitemap.xml
