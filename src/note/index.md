@@ -1,5 +1,6 @@
-# [HotDoc Note](https://github.com/foreachsam/note-tool-hotdoc)
+# HotDoc Note
 
+* [HotDoc Note](https://foreachsam.github.io/note-tool-hotdoc/doc/index.html) ([GitHub](https://github.com/foreachsam/note-tool-hotdoc))
 
 ## HotDoc Homepage
 
