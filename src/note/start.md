@@ -2,12 +2,23 @@
 short-description: Quick Start
 ...
 
+
 # Start
+
+
+## Install
+
 
 * [https://hotdoc.github.io/installing.html#install-methods](https://hotdoc.github.io/installing.html#install-methods)
 
 
+## Quick Start
+
+* [https://hotdoc.github.io/the-markdown-pages.html](https://hotdoc.github.io/the-markdown-pages.html)
+
+
 ## Example
+
 
 ### Hello
 
