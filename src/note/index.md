@@ -1,6 +1,6 @@
-# HotDoc Note
+# HotDoc 學習筆記
 
-* [HotDoc Note](https://foreachsam.github.io/note-tool-hotdoc/doc/index.html) ([GitHub](https://github.com/foreachsam/note-tool-hotdoc))
+* [HotDoc 學習筆記](https://foreachsam.github.io/note-tool-hotdoc/doc/index.html) ([GitHub](https://github.com/foreachsam/note-tool-hotdoc))
 
 ## HotDoc Homepage
 
