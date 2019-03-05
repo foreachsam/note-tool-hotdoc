@@ -1,8 +1,8 @@
 {
-    "index": "note/index.md",
-    "output": "build",
-    "project_name": "note-tool-hotdoc",
+	"project_name": "note-tool-hotdoc",
     "project_version": "0.1",
+    "index": "note/index.md",
     "sitemap": "sitemap.txt",
+    "output": "build",
     "end": ""
 }

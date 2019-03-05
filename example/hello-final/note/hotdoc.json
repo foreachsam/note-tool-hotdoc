@@ -1,0 +1,8 @@
+{
+	"project_name": "simplest-example",
+	"project_version": "0.1",
+	"index": "markdown/index.markdown",
+	"sitemap": "sitemap.txt",
+	"output": "built_doc"
+}
+
