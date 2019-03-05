@@ -1,1 +1,1 @@
-urls_downloaded_cb({"token": "hotdoc", "urls": [{"url": "index.html#hotdoc-homepage", "context": {"gi-language": ["default"]}}, {"url": "index.html#hotdoc-note", "context": {"gi-language": ["default"]}}]});
+urls_downloaded_cb({"token": "hotdoc", "urls": [{"url": "index.html#hotdoc-homepage", "context": {"gi-language": ["default"]}}, {"url": "index.html#hotdoc-", "context": {"gi-language": ["default"]}}]});
